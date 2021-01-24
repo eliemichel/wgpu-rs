@@ -17,6 +17,10 @@ See our [gallery](https://wgpu.rs/#showcase) and the [wiki page](https://github.
 
 ## Usage
 
+### Getting started
+
+For a general introduction to wgpu, it is advised to follow @sotrh's [Learn wgpu](https://sotrh.github.io/learn-wgpu/) tutorial.
+
 ### How to Run Examples
 
 All examples are located under the [examples](examples) directory.
